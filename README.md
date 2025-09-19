@@ -9,7 +9,8 @@ See instructions. Delete this line and replace with a list of the names of your 
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-###Stakeholder 1: Diana Pujals (NYU Student, undergraduate, junior)
+
+### Stakeholder 1: Diana Pujals (NYU Student, undergraduate, junior)
 - **Goals / Needs**
  1. Filter professors by teaching style (group projects, lecture heavy, discussion-based, etc)
  2. See professors' background details (degrees, years of experience, reasons for choosing the profession, etc)
