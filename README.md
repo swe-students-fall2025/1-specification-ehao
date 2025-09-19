@@ -6,6 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
+Mojin Yuan https://github.com/Mojin-Yuan
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
@@ -25,3 +27,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
