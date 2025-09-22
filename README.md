@@ -7,6 +7,8 @@ A little exercise to get started with the specification phase of the software de
 \Ezra Shapiro https://github.com/ems9856-lgtm
 Amira Adum https://github.com/amiraadum
 
+Mojin Yuan https://github.com/Mojin-Yuan
+
 ## Stakeholders
 
 ### Stakeholder 1: Diana Pujals (NYU Student, undergraduate, junior)
@@ -73,3 +75,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Clickable Prototype
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
