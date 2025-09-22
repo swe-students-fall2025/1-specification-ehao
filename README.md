@@ -5,12 +5,27 @@ A little exercise to get started with the specification phase of the software de
 ## EHAO
 
 \Ezra Shapiro https://github.com/ems9856-lgtm
+Amira Adum https://github.com/amiraadum
 
 ## Stakeholders
 
-Liam Tang ( NYU Student, Undergrad, Senior)
+### Stakeholder 1: Diana Pujals (NYU Student, undergraduate, junior)
+- **Goals / Needs**
+ 1) Filter professors by teaching style (group projects, lecture heavy, discussion-based, etc)
+ 2) See professors' background details (degrees, years of experience, reasons for choosing the profession, etc)
+ 3) Get matched with a professor based on chosen criteria.
+ 4) Have one place to see classes and professors with reviews simultaneously
 
-Goals:
+- **Problems / Frustrations**
+ 1. No way to filter by teaching style on current platforms.
+ 2. There is no transparency on the professors' qualifications and teaching motivations.
+ 3. It is time consuming and confusing to switch among from one professor rating to another.
+ 4. Difficult to keep track checking multiple systems (Albert, external review pages).
+
+
+### Stakeholder 2: Liam Tang ( NYU Student, Undergrad, Senior)
+
+- **Goals / Needs**:
 1) See ratings from students and what courses the professor is responsible for
 
 2) Understand the workload and time commitment needed for the course in a week
@@ -19,7 +34,7 @@ Goals:
 
 4) Have up-to-date information and make sure that current professors are listed
 
-Problems:
+- **Problems / Frustrations**
 1) information is not updated frequently if a professor joins or leaves a university for another university
 
 2) Too many pop-up ads so it’s annoying to interact with the website
@@ -42,6 +57,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 3) As a student, I want to be able to filter out good/bad reviews of students, so I get reliable information.
 
 4) As a student, I want up-to-date information of professors, as they might have switched universities and teach different courses, so the same professor is not listed multiple times or I get confused when reading reviews of people with the same name.
+
+5) As a student, I want to filter professors by teaching style, so that I can match my learning preference.
+
+6) As a student, I want to see a professor's background, so that I can evaluate their credibility and expertise before enrolling.
+
+7) As a student, I want to get professor recommendations automatically, so that I can find a good match in my field of study without spending too much time going through profiles.
+
+8) As a student, I want to see class information and the professor's rating in one place, so that I don't loose track switching between multiple pages or systems.
 
 ## Activity Diagrams
 
