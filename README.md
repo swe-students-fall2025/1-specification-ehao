@@ -13,7 +13,6 @@ Renchu Miao (NYU Student, undergraduate, junior)
 Goals / Needs
 
 
-
 1. Have a more comprehensive profile page where, after filling in details such as major and past course history, the system can automatically recommend suitable courses and professors.
 
 
@@ -31,7 +30,6 @@ Goals / Needs
 
 
 Problems / Frustrations
-
 
 
 1. Current platforms do not provide personalized recommendations tailored to individual students.
@@ -55,7 +53,6 @@ Problems / Frustrations
 See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
-
 
 
 1. As a student, I want to have a comprehensive profile page that uses my major and course history to recommend classes and professors, so that I can make better enrollment decisions efficiently.
