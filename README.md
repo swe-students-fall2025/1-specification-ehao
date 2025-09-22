@@ -2,13 +2,32 @@
 
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
-## Team members
+## EHAO
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+\Ezra Shapiro https://github.com/ems9856-lgtm
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Liam Tang ( NYU Student, Undergrad, Senior)
+
+Goals:
+1) See ratings from students and what courses the professor is responsible for
+
+2) Understand the workload and time commitment needed for the course in a week
+
+3) Weight different ratings based on how much they have used the app in the past and how much others agree with the student’s review
+
+4) Have up-to-date information and make sure that current professors are listed
+
+Problems:
+1) information is not updated frequently if a professor joins or leaves a university for another university
+
+2) Too many pop-up ads so it’s annoying to interact with the website
+
+3) People make fake accounts and have multiple reviews so identity should be verified
+
+4) You can’t look at the average rating of professors by the courses they teach but only as an average compiled by all of the courses they teach, so you should be able to filter. As they might teach an easy and hard course
+
 
 ## Product Vision Statement
 
@@ -16,7 +35,13 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1) As a student, I want to be able to look at reviews of professors and what courses they teach, so I can understand what material I am registering to learn.
+
+2) As a student, I want to be able to understand how much time I will be committing to a course, so I manage my time well.
+
+3) As a student, I want to be able to filter out good/bad reviews of students, so I get reliable information.
+
+4) As a student, I want up-to-date information of professors, as they might have switched universities and teach different courses, so the same professor is not listed multiple times or I get confused when reading reviews of people with the same name.
 
 ## Activity Diagrams
 
