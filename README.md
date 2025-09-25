@@ -4,9 +4,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## EHAO
 
-\Ezra Shapiro https://github.com/ems9856-lgtm
+Ezra Shapiro https://github.com/ems9856-lgtm
 Amira Adum https://github.com/amiraadum
-
 Mojin Yuan https://github.com/Mojin-Yuan
 
 Harrison Gao https://github.com/HTK-G
