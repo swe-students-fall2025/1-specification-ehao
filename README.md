@@ -9,6 +9,7 @@ Ezra Shapiro https://github.com/ems9856-lgtm
 Amira Adum https://github.com/amiraadum
 
 Mojin Yuan https://github.com/Mojin-Yuan
+
 Omer Hortig https://github.com/ohortig
 
 Harrison Gao https://github.com/HTK-G
@@ -99,7 +100,7 @@ Harrison Gao https://github.com/HTK-G
 
 ## Product Vision Statement
 
-Our mission is to provide a safe forum to share classroom experiences to help NYU students make critical education choices
+Our mission is to provide a safe and authentic forum for NYU students to share classroom experiences and inform critical education choices through personalized recommendations.
 
 ## User Requirements
 
