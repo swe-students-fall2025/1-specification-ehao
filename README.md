@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 Ezra Shapiro https://github.com/ems9856-lgtm
 Amira Adum https://github.com/amiraadum
 Mojin Yuan https://github.com/Mojin-Yuan
+Omer Hortig https://github.com/ohortig
 
 ## Stakeholders
 
