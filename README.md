@@ -134,18 +134,15 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 15) As a graduate student, I want to filter reviews by course level (undergraduate vs. graduate), so that I can focus on feedback that’s relevant to me.
 
-
 16) As a student, I want to have the ability to enroll a course before it is reviewed, so that the review is authenticated.
 
+17) As a student, I actively posts under different courses and I want to see all of my previous review in one place to manage.
 
-<!--
-17)
+18) As a graduate student, I posts dicussions on course page, and I want to find all my dicussion threads in one place.
 
-18)
+19) As a international student, I want to edit my personal information (school, year, major) on my profile, so that my details stay up to date when things change.
 
-19)
-
-20) -->
+20) As a student, I want to view my enrolled courses in a clear list on my profile, so that I can quickly access course details and manage my studies.
 
 ## Activity Diagrams
 
