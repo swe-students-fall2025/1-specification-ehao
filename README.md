@@ -134,9 +134,11 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 15) As a graduate student, I want to filter reviews by course level (undergraduate vs. graduate), so that I can focus on feedback that’s relevant to me.
 
-<!--
-16)
 
+16) As a student, I want to have the ability to enroll a course before it is reviewed, so that the review is authenticated.
+
+
+<!--
 17)
 
 18)
