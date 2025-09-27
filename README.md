@@ -146,7 +146,9 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### User Story 19: As a student, I want to be able to quickly make an account with my personal information (school, year, major), and be able to update it so that my details stay up to date when things change.
+
+![SWE Project 1 UML](UML/SWE%20Project%201%20UML.drawio.png)
 
 ## Clickable Prototype
 
