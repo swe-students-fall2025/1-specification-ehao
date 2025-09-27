@@ -150,6 +150,9 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 ![SWE Project 1 UML](UML/SWE%20Project%201%20UML.drawio.png)
 
+### User Story 16: As a student, I want to have the ability to enroll a course before it is reviewed, so that the review is authenticated.
+![UML_story16](UML/UML_story16.drawio.png)
+
 ## Clickable Prototype
 
 [Home Page Flow](https://www.figma.com/proto/TqRHZAWM0nVbRykVF3u8Ks/ehao?node-id=0-1&p=f&viewport=387%2C111%2C0.18&t=HLEvXSOaIiVqdbtp-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2&show-proto-sidebar=1)
