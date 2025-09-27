@@ -140,7 +140,7 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 18) As a student, I posts dicussions on course page, and I want to find all my dicussion threads in one place.
 
-19) As a student, I want to edit my personal information (school, year, major) on my profile, so that my details stay up to date when things change.
+19) As a student, I want to be able to quickly make an account with my personal information (school, year, major), and be able to update it so that my details stay up to date when things change.
 
 20) As a student, I want to view my enrolled courses in a clear list on my profile, so that I can quickly access course details and manage my studies.
 
