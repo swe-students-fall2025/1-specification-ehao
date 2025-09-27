@@ -150,4 +150,6 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Home Page Flow](https://www.figma.com/proto/TqRHZAWM0nVbRykVF3u8Ks/ehao?node-id=0-1&p=f&viewport=387%2C111%2C0.18&t=HLEvXSOaIiVqdbtp-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A2&show-proto-sidebar=1)
+
+[Log In Flow](https://www.figma.com/proto/TqRHZAWM0nVbRykVF3u8Ks/ehao?node-id=0-1&p=f&viewport=387%2C111%2C0.18&t=HLEvXSOaIiVqdbtp-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A15&show-proto-sidebar=1)
