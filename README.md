@@ -144,6 +144,14 @@ Our mission is to provide a safe and authentic forum for NYU students to share c
 
 20) As a student, I want to view my enrolled courses in a clear list on my profile, so that I can quickly access course details and manage my studies.
 
+21) As a student, I want to be able to rate reviews, so I can state if they are accurate.
+
+22) As a student, I want to be able to filter by different courses a professor teaches, so I can get an understanding of the quality of the individual course.
+
+23) As a student, I want to be able to filter by university, so I don't get two professors with the same name.
+
+24) As a student, I want to be able to comment on individual reviews, so I can express if I agree or disagree.
+
 ## Activity Diagrams
 
 ### User Story 19: As a student, I want to be able to quickly make an account with my personal information (school, year, major), and be able to update it so that my details stay up to date when things change.
